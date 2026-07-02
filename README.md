@@ -18,7 +18,7 @@ The grand compendium of offensive, defensive, and cloud security knowledge. Cura
 
 > *"In the beginning there was the command line. And it was good."*
 
-**By [Venkata Satya Sai Chalasani]()** · *Curated for Defenders, Hunters, Hackers & Operators*
+**By [Venkata Satya Sai Chalasani](https://github.com/Chalasani-Venkata-Satya-Sai/The-Book-of-Alchemy-for-the-Secret-of-Cyberspace)** · *Curated for Defenders, Hunters, Hackers & Operators*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub last commit](https://img.shields.io/badge/maintained-yes-brightgreen)
