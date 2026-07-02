@@ -1,3 +1,6 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b757a1bc-5d51-44dd-8df6-7d80c344a88c" />
+
+
 # The-Book-of-Alchemy-for-the-Secret-of-Cyberspace
 The grand compendium of offensive, defensive, and cloud security knowledge. Curated for threat hunters, builders, and operators, this interactive index links the industry's best security frameworks, DFIR artifacts, AI safety utilities, and battle-tested shell one-liners into a single structured command deck.
 
@@ -1108,7 +1111,7 @@ Get-CimInstance -ClassName Win32_StartupCommand | Select Name, Command, Location
 
 **[⬆ Back to Top](#-table-of-contents)**
 
-![Built with ❤️ by Augur CyberX](https://img.shields.io/badge/Built%20with%20%E2%9D%A4%EF%B8%8F%20by-Augur%20CyberX-red)
+![Built with ❤️ by Venkata Satya Sai Chalasani](https://img.shields.io/badge/Built%20with%20%E2%9D%A4%EF%B8%8F%20by-Venkata%20Satya%20Sai%20Chalasani-red)
 ![Knowledge is Power](https://img.shields.io/badge/Knowledge-is%20Power-blueviolet)
 
 </div>
