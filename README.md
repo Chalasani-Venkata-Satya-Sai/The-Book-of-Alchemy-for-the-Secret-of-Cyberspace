@@ -25,7 +25,8 @@ The grand compendium of offensive, defensive, and cloud security knowledge. Cura
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub last commit](https://img.shields.io/badge/maintained-yes-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![License](https://img.shields.io/badge/license-Comptia%20Security+%20-blue)
+![License](https://img.shields.io/badge/license-Microsoft%20Certified%20-darkblue)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)
 
 </div>
